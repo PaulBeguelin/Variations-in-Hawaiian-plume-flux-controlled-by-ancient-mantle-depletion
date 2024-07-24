@@ -1,0 +1,1 @@
+Python code for the manuscript "Variations in Hawaiian plume flux controlled by ancient mantle depletion" by Paul Béguelin, Andreas Stracke, Maxim D. Ballmer, Shichun Huang, Michael Willig, and Michael Bizimis.
